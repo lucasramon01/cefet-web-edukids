@@ -2,7 +2,7 @@
  * botões play/stop (para que o elemento se revele lentamente)
  */
  #controles ul {
-	animation-direction: alternate-reverse;
+	animation-direction: alternate;
 }
 
 /*
